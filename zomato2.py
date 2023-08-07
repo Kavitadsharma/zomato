@@ -143,7 +143,7 @@ def exit_program():
 
 # Main program flow
 while True:
-    print("Welcome to Zesty Zomato")
+    print("Welcome to Zomato")
     print("1. Add a new dish to the menu")
     print("2. Remove a dish from the menu")
     print("3. Update dish availability")
